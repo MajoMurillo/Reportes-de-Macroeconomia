@@ -1,0 +1,12 @@
+---
+title: "Macroeconomia"
+author: "MariaJose Murillo"
+date: "2022-2"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+Link del repositorio: https://github.com/MajoMurillo/Reportes-de-Macroeconomia
+
